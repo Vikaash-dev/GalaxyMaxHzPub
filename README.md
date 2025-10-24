@@ -1,10 +1,10 @@
 
-<img src="https://github.com/user-attachments/assets/cbdb6b14-796f-49ae-b9ea-93e4df01aedc" width=235 height=490>
-<img src="https://github.com/user-attachments/assets/ec56fa22-1242-4ff2-a2e6-bbf79600d77c" width=235 height=490>
-<img src="https://github.com/user-attachments/assets/fc7155c4-6061-4742-9753-12cf37bda9ca" width=235 height=490> 
-<img src="https://github.com/user-attachments/assets/249ef1b6-08a5-4635-b73d-7bfc448c7554" width=235 height=490>
-<img src="https://github.com/user-attachments/assets/caf28d24-53a9-4289-ba14-0e480d940261" width=235 height=490> 
-<img src="https://github.com/user-attachments/assets/7323029e-54b4-4478-835c-0a67bdc48932" width=235 height=490>
+<img src="https://github.com/user-attachments/assets/cbdb6b14-796f-49ae-b9ea-93e4df01aedc" width="235" height="490">
+<img src="https://github.com/user-attachments/assets/ec56fa22-1242-4ff2-a2e6-bbf79600d77c" width="235" height="490">
+<img src="https://github.com/user-attachments/assets/fc7155c4-6061-4742-9753-12cf37bda9ca" width="235" height="490">
+<img src="https://github.com/user-attachments/assets/249ef1b6-08a5-4635-b73d-7bfc448c7554" width="235" height="490">
+<img src="https://github.com/user-attachments/assets/caf28d24-53a9-4289-ba14-0e480d940261" width="235" height="490">
+<img src="https://github.com/user-attachments/assets/7323029e-54b4-4478-835c-0a67bdc48932" width="235" height="490">
 
 
 Galaxy MaxHz[^2]
@@ -17,13 +17,12 @@ Galaxy MaxHz[^2]
     * Configure separately for Power Saving Mode and Low Battery State, as well as for the main and outer screens on supported foldables [premium]
 
 * Refresh rate mode switcher(Normal, Adaptive or High)[^1]
-    * Set you device motion smoothness mode to stationary refresh rates (high mode) for better smoothness if so desired.
-    * Adaptive refresh rate mod on devices that don't natively support adaptive refresh rate  mode [premium][^1]
+    * Set your device motion smoothness mode to stationary refresh rates (high mode) for better smoothness if so desired.
+    * Adaptive refresh rate mod on devices that don't natively support adaptive refresh rate mode [premium][^1]
 
 * Per-app refresh rate settings[premium]:
     * Assign adaptive or static refresh rates per app.
     * Configure individually for main screen and outer screens on supported foldables.
-      
 * Refresh rate monitor
 
 * Prevent switching to Standard mode on power saving mode [premium]
@@ -35,20 +34,16 @@ Galaxy MaxHz[^2]
 
 * Screen off/AOD refresh rate
     * Force the lowest supported refresh rate on screen-off or Always-On Display(AOD) to improve standby power consumption a bit.
- 
-      
 #### Screen-off Mods:
 
 * Auto power saving mode on screen-off[^1]
-    *  Auto enable power saving mode when the screen is off, and disable it when the screen turns back on.
-  
+    * Auto enable power saving mode when the screen is off, and disable it when the screen turns back on.
 * Auto disable Autosync
-  *  Auto disable Autosync when the screen is off, and disable it when the screen turns back on
+    * Auto disable Autosync when the screen is off, and disable it when the screen turns back on
 
 * Quick-doze mod[^1]
     * Quickly enter doze mode to improve standby drain with customizable maintenance interval [premium]
     * Remove apps from Doze system whitelist to allow system to restrict or optimize their background/standby usage.
- 
 * Auto SENSORS OFF (Supports up to OneUI4 only)
 
 #### Extras
