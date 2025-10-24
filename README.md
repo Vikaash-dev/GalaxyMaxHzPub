@@ -10,6 +10,13 @@
 Galaxy MaxHz[^2]
 ======
 
+## 📚 Documentation
+> **Comprehensive technical documentation and analysis available!**
+> - **[📋 Project Breakdown](./PROJECT_BREAKDOWN.md)** - Detailed component analysis and architecture
+> - **[🔍 Similar Projects Comparison](./SIMILAR_PROJECTS_COMPARISON.md)** - Feature comparison with alternatives
+> - **[🔧 Technical Review](./TECHNICAL_REVIEW.md)** - In-depth technical analysis and recommendations
+> - **[📖 Documentation Index](./DOCUMENTATION_INDEX.md)** - Quick navigation and reference guide
+
 #### Refresh Rate Mods
 
 * Change default refresh rates of devices supporting multiple refresh rates.
